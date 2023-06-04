@@ -77,7 +77,7 @@ async def on_ready():
         str(len(bot.cogs)), str(len(bot.commands))))     
     print('Made by Kong')           
     print('-------------------------')    
-    await bot.change_presence(status=discord.Status.online, activity=discord.Game("Video")) #oynuyoru buradn değişebilirsiniz
+    await bot.change_presence(status=discord.Status.online, activity=discord.Game("Dextro")) #oynuyoru buradn değişebilirsiniz
 
 # burdan token girebilrisiniz Kong
-bot.run('')
+bot.run('MTExNDgzMjM5ODUwMTI5MDAzNA.GACzLp.Audy5BFr834UExlrOpQiE8LIZYA5hxDkMICpKU')
